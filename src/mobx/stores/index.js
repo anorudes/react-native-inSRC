@@ -1,5 +1,7 @@
-import counter from './counter';
+import app from './app';
+import notes from './notes';
 
 export {
-  counter,
+  app,
+  notes,
 };
