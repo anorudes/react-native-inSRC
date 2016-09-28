@@ -1,14 +1,10 @@
 {
-  "name": "react-native-mobx-easy-boilerplate",
-  "version": "1.0.0",
+  "name": "react-native-inSRC",
+  "version": "0.0.1",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anorudes/react-native-mobx-easy-boilerplate/issues"
+    "url": "https://github.com/anorudes/react-native-inSRC/issues"
   },
-  "authors": [
-    "Max Anoru (https://github.com/anorudes)",
-    "Léo LE BRAS <leo.lebrasf@gmail.com> (http://github.com/LeoLeBras)"
-  ],
   "scripts": {
     "start": "node_modules/react-native/packager/packager.sh",
     "build:ios": "node node_modules/react-native/local-cli/cli.js bundle --entry-file index.ios.js --bundle-output iOS/main.jsbundle --platform 'ios' --assets-dest ./  --dev false --reset-cache",
